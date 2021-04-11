@@ -204,20 +204,25 @@
     padding-bottom: 30px;
   }
 
+  .u-section-1 .u-line-1 {
+    transform-origin: left center 0px;
+    margin-top: -19px;
+  }
+
   .u-section-1 .u-shape-1 {
     width: 228px;
-    margin-top: 307px;
+    margin-top: 346px;
     margin-left: -76px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
     width: auto;
-    margin-top: -526px;
+    margin-top: -496px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 69px;
+    margin-top: 39px;
     margin-bottom: -128px;
     margin-left: 79px;
   }
